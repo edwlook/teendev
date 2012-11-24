@@ -1,0 +1,31 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Developers: 
+  	Jacob Ebey (jacob9706)
+	Edward Look (Etcher)
+  			
+/* THANKS */
+  Names (& URL):
+
+/* SITE */
+  Standards: HTML5, CSS3, PHP
+  Components: Modernizr, jQuery
+
+
+
+_________ _______  _______  _            ______   _______
+\__   __/(  ____ \(  ____ \( (    /|    (  __  \ (  ____ \|\     /|
+   ) (   | (    \/| (    \/|  \  ( |    | (  \  )| (    \/| )   ( |
+   | |   | (__    | (__    |   \ | |    | |   ) || (__    | |   | |
+   | |   |  __)   |  __)   | (\ \) |    | |   | ||  __)   ( (   ) )
+   | |   | (      | (      | | \   |    | |   ) || (       \ \_/ /
+   | |   | (____/\| (____/\| )  \  |    | (__/  )| (____/\  \   /
+   )_(   (_______/(_______/|/    )_)    (______/ (_______/   \_/
+   
+   Facebook: http://www.facebook.com/groups/TeenDev/
+   Twitter: https://twitter.com/#!/teendev
+   Github: https://github.com/jacob9706/TeenDevSite
+   Email: teendevglobal@gmail.com
