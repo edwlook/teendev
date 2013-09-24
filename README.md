@@ -1,4 +1,4 @@
-TeenDevSite
+TeenDev Website
 ===========
 
-Website For Teen Dev Project
+## View a live version [here](http://www.ocf.berkeley.edu/~edwlook/teendev/)
