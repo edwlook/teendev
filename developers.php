@@ -9,7 +9,7 @@
 		<h2>Developers</h2>
 		<ul>
 			<li>Jacob Ebey (<a href="https://github.com/jacob9706" target="_blank">jacob9706</a>) - Lead Designer/Developer</li>
-			<li>Edward Look (<a href="https://github.com/Etcher" target="_blank">Etcher</a>) - Designer/Developer</li>
+			<li>Edward Look (<a href="https://github.com/edwlook" target="_blank">edwlook</a>) - Designer/Developer</li>
 		</ul>
 	</div>
 	<div class="clearfooter"></div>
